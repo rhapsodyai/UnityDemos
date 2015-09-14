@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\LOD\Assets\Scripts\instantCity.js">
+    <Files>
+      <File FileName="..\..\LOD\Assets\Scripts\LODManager.js" Line="47" Column="2" />
+      <File FileName="..\..\LOD\Assets\Scripts\LODManagerWorks.js" Line="28" Column="3" />
+      <File FileName="..\..\LOD\Assets\Scripts\instantCity.js" Line="7" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
