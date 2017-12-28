@@ -1,18 +1,14 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
+# Visual Studio 2010
 
-Project("{CAE3FFD0-AF3F-0970-465C-CA0C95554C90}") = "FirstLaw", "Assembly-UnityScript.unityproj", "{B4C776E7-34F4-726D-1053-EF44D82ABE8D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B4C776E7-34F4-726D-1053-EF44D82ABE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B4C776E7-34F4-726D-1053-EF44D82ABE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B4C776E7-34F4-726D-1053-EF44D82ABE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B4C776E7-34F4-726D-1053-EF44D82ABE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,5 +32,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
